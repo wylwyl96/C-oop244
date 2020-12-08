@@ -1,0 +1,5 @@
+During this project, I learned lots of knowledge about object orient programming in C++ and three features of C++, abstract, polymorphism, and inheritance. In each milestone, we create a base class Patient and several derived classes called Corvid patient and triage patient which inherited from base class.
+And in this project, we also learn how to use template, how to write virtual function and the format in base class and re modify it in derided class which is kind of abstract in C++.
+We also use lots of dynamic allocate memory to create pointer and assign value and deallocate dynamically memory in destructor which is polymorphism.
+There are also lots of issues when I design this project in the first time, there are lots of memories issue in the compiler that we did not notice. For example, when we create a array of dynamically memories in a loop, we might miss one or two of them when we deallocated in the end.
+And second challenge for me, is modify IO stream and IF stream. It is kind of abstract when we code it. We need to familiar how does it work in C++. I take a lot of time in reading and searching in this part in this milestone.
