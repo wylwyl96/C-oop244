@@ -1,0 +1,4 @@
+C:\Users\jerry\Desktop\Project1\Debug\Project1.exe
+C:\Users\jerry\Desktop\Project1\Debug\Project1.pdb
+C:\Users\jerry\Desktop\OOP244\WS03\DIY\Project1\Debug\Project1.exe
+C:\Users\jerry\Desktop\OOP244\WS03\DIY\Project1\Debug\Project1.pdb
