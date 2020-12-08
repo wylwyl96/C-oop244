@@ -1,0 +1,5 @@
+﻿  Mark.cpp
+C:\Users\jerry\Desktop\OOP-Workshops-master\WS05\DIY\Mark.cpp(121,10): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+  markMain.cpp
+  Generating Code...
+  DIY.vcxproj -> C:\Users\jerry\Desktop\OOP-Workshops-master\WS05\DIY\Debug\DIY.exe
